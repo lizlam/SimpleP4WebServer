@@ -1,7 +1,7 @@
 SimpleP4WebServer
 =================
 
-Programming excersise to learn more about web servers.  
+Programming exercise to learn more about web servers.  
 
 Idea:
 Submit simple websites into Perforce server.
